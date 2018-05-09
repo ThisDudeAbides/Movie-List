@@ -1,0 +1,7 @@
+C:\Users\Mssar\source\repos\Lab 11 MoviesByCategory\Lab 11 MoviesByCategory\bin\Debug\Lab 11 MoviesByCategory.exe.config
+C:\Users\Mssar\source\repos\Lab 11 MoviesByCategory\Lab 11 MoviesByCategory\bin\Debug\Lab 11 MoviesByCategory.exe
+C:\Users\Mssar\source\repos\Lab 11 MoviesByCategory\Lab 11 MoviesByCategory\bin\Debug\Lab 11 MoviesByCategory.pdb
+C:\Users\Mssar\source\repos\Lab 11 MoviesByCategory\Lab 11 MoviesByCategory\obj\Debug\Lab 11 MoviesByCategory.csprojResolveAssemblyReference.cache
+C:\Users\Mssar\source\repos\Lab 11 MoviesByCategory\Lab 11 MoviesByCategory\obj\Debug\Lab 11 MoviesByCategory.csproj.CoreCompileInputs.cache
+C:\Users\Mssar\source\repos\Lab 11 MoviesByCategory\Lab 11 MoviesByCategory\obj\Debug\Lab 11 MoviesByCategory.exe
+C:\Users\Mssar\source\repos\Lab 11 MoviesByCategory\Lab 11 MoviesByCategory\obj\Debug\Lab 11 MoviesByCategory.pdb
